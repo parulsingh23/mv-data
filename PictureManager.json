@@ -42,5 +42,18 @@
 				}
 			]
 		}
-	]
+	],
+	"sort": "cat",
+	"foo": {
+		"pic": [
+			{
+				"image": "https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697",
+				"name": "dog"
+			},
+			{
+				"image": "https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697",
+				"name": "cat"
+			}
+		]
+	}
 }
